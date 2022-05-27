@@ -12,4 +12,4 @@ Discord: https://discord.gg/sQqq5qRbQq
 
 Confluence: https://coding-for-immigrants.atlassian.net/wiki/home
 
-Jira: TBD
+Jira: https://coding-for-immigrants.atlassian.net/jira
