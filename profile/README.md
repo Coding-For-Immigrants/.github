@@ -1,6 +1,6 @@
 # Coding For Immigrants
 
-A Stockholm-based coding learning group
+A Stockholm-based nonprofit committed to ensuring all immigrants and allys of our cause feel supported and celebrated as they transition into new careers in tech.
 
 ## Links
 
@@ -10,6 +10,4 @@ GitHub: https://github.com/Coding-For-Immigrants
 
 Discord: https://discord.gg/sQqq5qRbQq
 
-Confluence: https://coding-for-immigrants.atlassian.net/wiki
-
-Jira: https://coding-for-immigrants.atlassian.net/jira
+Instagram: https://www.instagram.com/coding.for.immigrants/
